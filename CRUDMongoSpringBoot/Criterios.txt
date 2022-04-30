@@ -1,0 +1,5 @@
+Criterios
+Crear un proyecto de Spring Boot desde cero
+Crear tu propia colecciones de datos, personalizada
+Subir el CRUD a un repositorio git
+Crear mongo altras y configura una base de datos en la nube
