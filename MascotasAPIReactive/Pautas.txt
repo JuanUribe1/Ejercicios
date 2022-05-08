@@ -1,0 +1,11 @@
+Pautas
+Basado en el siguiente repositorio https://github.com/Sofka-XT/workshop-reactor-core completar 
+el CRUD y reforzar los conocimientos, aplicar las mejores practicas y aplicar validaciones 
+correspondientes.
+
+
+Criterios
+Completa el CRUD
+Tiene buenas practicas de validación en los servicios.
+Mejora en el codigo
+Compartir el codigo en su repositorio git para su revisión.
